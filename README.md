@@ -26,6 +26,9 @@ Keras Tutorial: Deep Learning in Python: https://www.datacamp.com/community/tuto
 ### PySpark:
 Spark Python API Docs: https://spark.apache.org/docs/latest/api/python/index.html
 
+### Scipy:
+Scipy Lectures: https://www.scipy-lectures.org/index.html
+
 ### Seaborn:
 Seaborn statistical data visualization: https://seaborn.pydata.org/
 
