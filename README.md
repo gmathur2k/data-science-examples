@@ -8,16 +8,27 @@ Lazy Programmer: Machine Learning Examples: https://github.com/lazyprogrammer/ma
 Documentation:
 
 ### Pandas: 
+Pandas Website: https://pandas.pydata.org/
 
 ### Numpy: 
+NumPy Website: http://www.numpy.org/
 GitHub: 100 Numpy exercises: https://github.com/rougier/numpy-100
 
 ### SciPy:
-SKLearn:
-Keras:
-PySpark:
-Seeborn:
-Matplotlib:
+SciKit Learn Website: https://scikit-learn.org/stable/
+
+### Keras:
+Kera Website: https://keras.io/
+Keras Tutorial: Deep Learning in Python: https://www.datacamp.com/community/tutorials/deep-learning-python
+
+### PySpark:
+Spark Python API Docs: https://spark.apache.org/docs/latest/api/python/index.html
+
+### Seeborn:
+Seaborn statistical data visualization: https://seaborn.pydata.org/
+
+### Matplotlib:
+MatPlotLib: Plotting in Python: https://matplotlib.org/
 
 ## Apache Spark:
 Apache Spark SQL Guide: https://spark.apache.org/docs/latest/sql-programming-guide.html
