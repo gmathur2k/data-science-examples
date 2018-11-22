@@ -16,7 +16,7 @@ GitHub: 100 Numpy exercises: https://github.com/rougier/numpy-100
 NumPy ndarray indexing: https://docs.scipy.org/doc/numpy-1.15.1/reference/arrays.indexing.html
   -> meaning of x[1:7:2], x[-2:10], x[-3:3:-1], x[1:-1,1:-1] etc.
 
-### SciPy:
+### SciKit Learn:
 SciKit Learn Website: https://scikit-learn.org/stable/
 
 ### Keras:
