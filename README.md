@@ -43,3 +43,8 @@ MatPlotLib: Plotting in Python: https://matplotlib.org/
 Apache Spark SQL Guide: https://spark.apache.org/docs/latest/sql-programming-guide.html
 
 Apache Spark Machine Learning Library MLLib Guide: https://spark.apache.org/docs/latest/ml-guide.html
+
+## Excellent Articles:
+Text Classification in Python: https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/
+
+
