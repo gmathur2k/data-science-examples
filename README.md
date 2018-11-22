@@ -7,9 +7,12 @@ Lazy Programmer: Machine Learning Examples: https://github.com/lazyprogrammer/ma
 ## Useful Python Libraries:
 Documentation:
 
-Pandas: 
-Numpy:
-SciPy:
+### Pandas: 
+
+### Numpy: 
+GitHub: 100 Numpy exercises: https://github.com/rougier/numpy-100
+
+### SciPy:
 SKLearn:
 Keras:
 PySpark:
